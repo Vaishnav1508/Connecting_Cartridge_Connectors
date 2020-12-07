@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=VM Pin=H1-2
+Added Pin To Net: NetName=CONN SW1 Pin=H1-3
+Added Pin To Net: NetName=CONN M1 Pin=H1-5
+Added Pin To Net: NetName=CONN M2 Pin=H1-6
+Added Pin To Net: NetName=GND Pin=H1-7
+Added Pin To Net: NetName=MGND Pin=H1-8
+Added Pin To Net: NetName=CONN SW2 Pin=H1-4
+Added Pin To Net: NetName=CONN SW2 Pin=J1-4
+Added Net: Name=CONN SW2
+Added Room: Name=Mach_side_sch

@@ -1,0 +1,10 @@
+Added Component: Designator=1(1747785-1)
+Added Pin To Net: NetName=VCC Pin=1-1
+Added Pin To Net: NetName=VM Pin=1-2
+Added Pin To Net: NetName=CONN SW1 Pin=1-3
+Added Pin To Net: NetName=CONN SW2 Pin=1-4
+Added Pin To Net: NetName=CONN M1 Pin=1-5
+Added Pin To Net: NetName=CONN M2 Pin=1-6
+Added Pin To Net: NetName=GND Pin=1-7
+Added Pin To Net: NetName=MGND Pin=1-8
+Added Member To Class: ClassName=Mach_side_sch Member=Component 1 1747785-1
